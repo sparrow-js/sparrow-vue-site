@@ -50,19 +50,28 @@ module.exports = {
       '/guide/': [
         {
           title: '基础',
-          collapsable: true,
+          collapsable: false,
           children: [
             '',
             'install',
           ]
         },
         {
-          title: '功能',
-          collapsable: true,
+          title: '资产',
+          collapsable: false,
           children: [
-            'form'
+            '/guide/market/',
+            '/guide/market/edit.md',
+            '/guide/market/block.md',
           ]
-        }
+        },
+        // {
+        //   title: '功能',
+        //   collapsable: true,
+        //   children: [
+        //     'form'
+        //   ]
+        // }
       ],
     }
   },

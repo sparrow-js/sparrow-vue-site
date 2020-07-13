@@ -13,3 +13,15 @@ features:
   details: 代码资源共享，包含组件、区块、搭建编辑容器。
 footer: Made by sparrow with ❤️
 ---
+
+## 起步
+安装：
+
+```bash
+# 全局安装
+$ npm install -g sparrow-code
+
+# 运行
+$ sparrow
+```
+---

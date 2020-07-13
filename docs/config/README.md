@@ -13,3 +13,5 @@ sidebar: auto
 
 - Type: `string`
 - Default: `/`
+
+<demo-component />
