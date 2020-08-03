@@ -65,6 +65,13 @@ module.exports = {
             '/guide/market/block.md',
           ]
         },
+        {
+          title: '贡献',
+          collapsable: false,
+          children: [
+            '/guide/contribute/',
+          ]
+        }
         // {
         //   title: '功能',
         //   collapsable: true,
