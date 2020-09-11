@@ -57,12 +57,31 @@ module.exports = {
           ]
         },
         {
-          title: '资产',
+          title: '基础组件',
           collapsable: false,
           children: [
-            '/guide/market/',
-            '/guide/market/edit.md',
-            '/guide/market/block.md',
+            '/guide/components/',
+          ]
+        },
+        {
+          title: '编辑区块',
+          collapsable: false,
+          children: [
+            '/guide/editblock/',
+          ]
+        },
+        {
+          title: '搜索组件',
+          collapsable: false,
+          children: [
+            '/guide/custom/',
+          ]
+        },
+        {
+          title: '静态区块',
+          collapsable: false,
+          children: [
+            '/guide/block/',
           ]
         },
         {

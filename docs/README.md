@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://imgkr.cn-bj.ufileos.com/f30db406-ae7e-40f2-b6e4-dd840b124c20.png
-tagline: 场景化低代码（LowCode）搭建工作台
+heroImage: https://unpkg.com/@sparrow-vue/images@1.0.5/assets/sparrow.png
+tagline: （文档更新中）场景化低代码（LowCode）搭建工作台
 actionText: 快速开始 →
 actionLink: /guide/
 features:
