@@ -32,6 +32,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    smoothScroll: true,
     nav: [
       {
         text: '指南',
@@ -42,6 +43,10 @@ module.exports = {
       //   link: '/config/'
       // },
       {
+        text: '贡献',
+        link: '/contribute/'
+      },
+      {
         text: 'github',
         link: 'https://github.com/sparrow-js/sparrow'
       }
@@ -50,7 +55,6 @@ module.exports = {
       '/guide/': [
         {
           title: '基础',
-          collapsable: false,
           children: [
             '',
             'install',
@@ -59,6 +63,7 @@ module.exports = {
         {
           title: '基础组件',
           collapsable: false,
+          sidebarDepth: 2,
           children: [
             '/guide/components/',
           ]

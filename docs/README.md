@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://unpkg.com/@sparrow-vue/images@1.0.5/assets/sparrow.png
+heroImage: https://unpkg.com/@sparrow-vue/images@1.0.10/assets/sparrow1.png
 tagline: （文档更新中）场景化低代码（LowCode）搭建工作台
 actionText: 快速开始 →
 actionLink: /guide/
