@@ -4,7 +4,7 @@ sparrow-js 是场景化低代码（LowCode）搭建工作台，通过操作场�
 - 可视化开发， 通过GUI生成页面代码源文件。
 - 资产市场， 代码资源共享，包含组件、编辑区块、静态区块、搜索组件。
 
- <img src="https://unpkg.com/@sparrow-vue/images@1.0.8/assets/init-page.png"  width = "520"  alt="图片名称" align="center" >
+ <img src="https://unpkg.com/@sparrow-vue/images@1.0.18/assets/anim1.gif"  width = "520"  alt="图片名称" align="center" >
 
 ## 优势
 - sprarrow 的核心目标是“提效”，因此功能上不只是单纯UI的可视化搭建，目前提供函数级别的搭建，提供拥有业务逻辑的代码组装，生成可二次开发的源代码；

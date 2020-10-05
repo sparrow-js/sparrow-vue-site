@@ -78,6 +78,7 @@ module.exports = {
         {
           title: '搜索组件',
           collapsable: false,
+          sidebarDepth: 2,
           children: [
             '/guide/custom/',
           ]
