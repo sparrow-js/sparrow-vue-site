@@ -74,7 +74,7 @@
 
 | 组件        | 说明	 | 图片     | 搜索关键词        | 
 | :--------- | :--:   |  :--:   |:----------- |
-| 初始化     | 综合表格, 初始化数据  |  | '综合表格', 'ComplexTable' |
+| 初始化     | 综合表格, 初始化数据  | <img src="https://unpkg.com/@sparrow-vue/images@1.0.19/assets/1000030.png"  width = "320"  alt="图片名称" align="center" >  | '综合表格', 'ComplexTable' |
 |  添加按钮  |  |  | '表格', 'CreateButton', '添加'  |
 |  删除按钮  |  |  | '表格', 'DeleteButton', '删除'    |
 |  编辑按钮  |  |  | '表格', 'EditButton', '编辑'  |
@@ -97,7 +97,7 @@
 ### 高级表单
 | 组件        | 说明	 | 图片     | 搜索关键词        | 
 | :--------- | :--:   |  :--:   |:----------- |
-|  高级表格  |  高级表单初始化数据 |   | '高级表格', 'AdvancedTable'   |
+|  高级表单  |  高级表单初始化数据 | <img src="https://unpkg.com/@sparrow-vue/images@1.0.19/assets/1000029.png"  width = "320"  alt="图片名称" align="center" >  | '高级表格', 'AdvancedTable'   |
 |  添加按钮  |      |     | '表格', 'AdvancedTable', '高级表单', '添加' |
 |  取消按钮  |      |     | '表格', 'AdvancedTable', '高级表单', '取消'    |
 |  删除按钮  |      |     | '表格', 'AdvancedTable', '高级表单', '删除'    |
@@ -108,7 +108,7 @@
 
 ## 来源
 
-vue-element-admin
+vue-element-admin，element-ui，
 
 
 
